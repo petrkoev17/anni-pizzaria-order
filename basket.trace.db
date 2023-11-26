@@ -1,0 +1,3 @@
+2022-12-23 12:55:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INGREDIENT" not found; SQL statement:
+select ingredient0_.id as id1_1_, ingredient0_.name as name2_1_, ingredient0_.price as price3_1_ from ingredient ingredient0_ [42102-200]

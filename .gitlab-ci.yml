@@ -1,0 +1,6 @@
+include:
+  - lab-template/authentication-microservice/.gitlab-ci.yml
+  - lab-template/basket-microservice/.gitlab-ci.yml
+  - lab-template/commons/.gitlab-ci.yml
+  - lab-template/gateway/.gitlab-ci.yml
+  - lab-template/order-microservice/.gitlab-ci.yml

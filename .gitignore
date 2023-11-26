@@ -1,0 +1,8 @@
+### Gradle ###
+.gradle
+
+#idea file
+*.idea
+*.gradle
+*.lock
+*.gradle/*
